@@ -145,7 +145,10 @@ vendor/lib/libNimsWrap.so|e8bf4057e8d1637dc909a83f1f3de1ab
 vendor/lib/libimscamera_jni.so|1dcb3fed866e909f2e618b05c4deb7e2
 vendor/lib/libimsmedia_jni.so|fbd84e34dc41afc04ac6f4ecac42f7f7
 vendor/lib/libvcel.so|e04891f998108c5e4787bc8918883fb6
-vendor/lib/libvoice-svc.so|9632db5ee3e927a81a33ad7903c02ac3
+
+#frome athene
+vendor/lib/libvoice-svc.so
+
 
 # Qualcomm framework
 bin/irsc_util

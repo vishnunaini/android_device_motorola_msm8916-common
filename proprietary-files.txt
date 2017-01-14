@@ -187,6 +187,7 @@ etc/permissions/qcnvitems.xml
 etc/permissions/qcrilhook.xml
 -framework/qcnvitems.jar
 -framework/qcrilhook.jar
+-framework/qti-telephony-common.jar
 lib/libadropbox.so
 lib/libmdmcutback.so
 lib/libmotext_inf.so
